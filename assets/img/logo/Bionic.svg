@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.5in"
+   height="7in"
+   viewBox="0 0 266.7 177.8"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Bionic.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     height="10in"
+     inkscape:zoom="0.47393378"
+     inkscape:cx="507.45486"
+     inkscape:cy="310.16991"
+     inkscape:window-width="1098"
+     inkscape:window-height="667"
+     inkscape:window-x="117"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="88.781846"
+       y="245.20737"
+       width="233.75541"
+       height="324.24111"
+       id="rect35131" />
+    <rect
+       x="225.57798"
+       y="223.77275"
+       width="753.11493"
+       height="137.36168"
+       id="rect22347" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter58403"
+       x="-0.76964114"
+       y="-0.45864802"
+       width="2.378851"
+       height="2.0760766">
+      <feFlood
+         flood-opacity="0.215686"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood58393" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite58395" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="11.8207"
+         result="blur"
+         id="feGaussianBlur58397" />
+      <feOffset
+         dx="-7.47096"
+         dy="9.82137"
+         result="offset"
+         id="feOffset58399" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite58401" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text22345"
+       style="line-height:1.25;font-family:'Quicksand Medium';font-size:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22347);-inkscape-font-specification:'Quicksand Medium, ';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.2111px;line-height:1.25;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';word-spacing:0px;stroke-width:1.30528"
+       x="97.286278"
+       y="111.78545"
+       id="text23101"><tspan
+         sodipodi:role="line"
+         id="tspan23099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';stroke-width:1.30528"
+         x="97.286278"
+         y="111.78545">ionic</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text35129"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect35131)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.3643px;line-height:1.25;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';word-spacing:0px;fill:#00acff;fill-opacity:1;stroke-width:2.20911;filter:url(#filter58403)"
+       x="37.065296"
+       y="113.38832"
+       id="text36105"><tspan
+         sodipodi:role="line"
+         id="tspan36103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';fill:#00acff;fill-opacity:1;stroke-width:2.20911"
+         x="37.065296"
+         y="113.38832">B</tspan></text>
+  </g>
+</svg>

@@ -643,12 +643,20 @@ p {
   }
 }
 
+
+
+.code-img{
+  border-radius: 8px;
+  height: 90%;
+  width: auto;
+}
+
 .navbar-brand {
   padding: 0;
 }
 
 .navbar-brand img {
-  max-width: 180px;
+  max-width: 90px;
 }
 
 .navbar-toggler {
