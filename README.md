@@ -1,6 +1,6 @@
 #### Bionic-Documentation
 
-<a href="https://bionic-py.github.io/Bionic-Documentation/">Bionic-Doc</a>
+<a href="https://mathlete-inc.github.io/Bionic-Documentation/">-Mathlete</a>
 <br>
 
 ##
